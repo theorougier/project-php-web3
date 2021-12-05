@@ -1,0 +1,15 @@
+{
+  "name": "theo_/src",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "theo, guilhem",
+      "email": "theo_rougier@hotmail.fr"
+    }
+  ],
+  "require": {}
+}
